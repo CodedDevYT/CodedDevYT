@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi! I am [CodedDev](http://youtube.com/CodedDev) 🌊
 
-<!--
-**CodedDevYT/CodedDevYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>I am a Hobby Programmer</i></h2><br>
+<i>Currently working on </i>[MCP.Client.Tutorial](https://github.com/CodedDevYT/MCP.Client.Tutorial)
 
-Here are some ideas to get you started:
+```kotlin
+class CodedDev (
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    val name = "CodedDev"
+    val currentJob = "Student"
+    val nationality = "Germany"
+    val learning = "NodeJS"
+    val skills = arrayOf("Java", "Kotlin", "HTML", "CSS")
+}
+```
+
+<br>
+<a href="#" align="left"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CodedDev&show_icons=true&theme=radical&line_height=27" alt="CodedDev's Stats" /></a>
+<!-- <a href="#" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedDev&show_icons=true&hide_border=true&theme=radical" alt="CodedDev's Stats" /></a> -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
