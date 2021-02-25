@@ -1,7 +1,7 @@
 # Hi! I am [CodedDev](http://youtube.com/CodedDev) 🌊
 
 <i>I am a Hobby Programmer</i></h2><br>
-<i>Currently working on </i>[MCP.Client.Tutorial](https://github.com/CodedDevYT/MCP.Client.Tutorial)
+<i>Currently working on </i>SECRET PROJECT 🤫
 
 ```kotlin
 class CodedDev (
