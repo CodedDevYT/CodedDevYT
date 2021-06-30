@@ -1,7 +1,7 @@
 # Hi! I am CodedDev 🌊
 
 <i>I am a Hobby Programmer</i></h2><br>
-<i>Currently working on </i>SECRET PROJECT 🤫
+<i>Currently working on </i>MyPass
 
 ```kotlin
 class CodedDev (
