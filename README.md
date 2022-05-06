@@ -9,8 +9,8 @@ class CodedDev (
     val name = "CodedDev"
     val currentJob = "Student"
     val nationality = "Germany"
-    val learning = "NodeJS"
-    val skills = arrayOf("Java", "Kotlin", "HTML", "CSS")
+    val learning = "Angular & Express"
+    val skills = arrayOf("Java", "Kotlin")
 }
 ```
 
