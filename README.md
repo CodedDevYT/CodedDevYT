@@ -1,7 +1,7 @@
 # Hi! I am CodedDev 🌊
 
 <i>I am a Hobby Programmer</i></h2><br>
-<i>Currently working on </i>MyPass
+<i>Currently working on </i>Reply
 
 ```kotlin
 class CodedDev (
@@ -9,7 +9,7 @@ class CodedDev (
     val name = "CodedDev"
     val currentJob = "Student"
     val nationality = "Germany"
-    val learning = "Angular & Express"
+    val learning = "NextJS"
     val skills = arrayOf("Java", "Kotlin")
 }
 ```
