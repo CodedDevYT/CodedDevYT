@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Raphaël</h1>
+<h1 align="center">Hi, I'm Raphaël <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h4 align="center">hobby developer currently attending middle school</h4>
 </div>
 
@@ -7,7 +7,7 @@
   <a href="#"><img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
-![pexels-pixabay-273935](https://user-images.githubusercontent.com/56199792/195553316-641cd1f6-6805-461c-9dae-828a026c1155.jpeg)
+![pexels-eberhard-grossgasteiger-572897](https://user-images.githubusercontent.com/56199792/195553903-67c392eb-1025-4fee-ac15-08042948cac2.jpeg)
 
 -----
 <details>
