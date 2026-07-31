@@ -8,7 +8,8 @@
   <a href="mailto:clipper-malls-4r@icloud.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img width="750" height="307" alt="profile banner" src="https://github.com/user-attachments/assets/532e505f-3930-479e-9ef8-4c501c8dd5ba" />
+<img width="750" height="307" alt="64dbfb279110e5730b698a752532605b" src="https://github.com/user-attachments/assets/c1a98d33-babc-4bc1-b833-ffdbc4d27ffa" />
+
 
 <br>
 <br>
