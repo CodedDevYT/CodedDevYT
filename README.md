@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=25&duration=2500&pause=500&color=F7F7F7&center=true&width=435&lines=Hey!;I+do+stuff+(sometimes);Idk%2C+%5Binsert+inspirational+line+here%5D)](https://git.io/typing-svg)
-
 <p align="center"> 
   <a href="https://github.com/CodedDevYT" target="blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://discordapp.com/users/526803068071968770" target="blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
